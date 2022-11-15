@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there my name is Simon Labunsky
 
-<!--
-**simonlav24/simonlav24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/simon-labunsky/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:simelav24@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+<br/> 
+
+<a href="https://github.com/simonlav24">
+    <img src="https://github-stats-alpha.vercel.app/api?username=simonlav24&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
+</p>
+
+- 🎓 Computer Engineering student @ Technion - Israel Institute of Technology
+- 💻 Currently working as RT software developer
+- 🎥 Former graphic designer and animator
+

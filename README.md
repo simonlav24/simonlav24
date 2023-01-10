@@ -19,7 +19,16 @@
 
 </p>
 
-- 🎓 Computer Engineering student @ Technion - Israel Institute of Technology
+---
+
+### Computer Engineering student @ Technion - Israel Institute of Technology
+
+<img align="right" src="D:\simon\IMP\Projects\SimonPop\hello.png" style="zoom:25%"/>
+
+asdasfgaghaet wsrt gweratg sfg wry wr yhsfhg
+
+---
+
 - 💻 Currently working as RT software developer
 - 🎥 Former graphic designer and animator
 

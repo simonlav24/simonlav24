@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" height="120" src="pics\study.png">
+<img align="right" height="120" src="pics\fight.png">
 
 ### Computer Engineering student @ Technion - Israel Institute of Technology
 

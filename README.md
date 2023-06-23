@@ -12,7 +12,7 @@
 
 <img align="right" height="120" src="pics\fight.png">
 
-<h3 align="right">Computer Engineering student @ Technion - Israel Institute of Technology</h3>
+<h3 align="right">Studied computer engineering @ Technion - Israel Institute of Technology</h3>
 
 ---
 

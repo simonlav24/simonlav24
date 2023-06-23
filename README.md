@@ -6,7 +6,7 @@
 
 <img align="left" height="120" src="pics\work.png">
 
-<h3>Currently working as RT software developer</h3>
+<h3>Currently working as RT software engineer</h3>
 
 ---
 

@@ -1,23 +1,7 @@
 <div align="center">
-    <img align="center" src="pics\hello.png" height="250"/>
+    <img align="center" src="pics\anim.gif" height="250"/>
     <br>
     <h1 align="center">Hi there my name is Simon Labunsky</h1>
 </div>
 
-<img align="left" height="120" src="pics\work.png">
-
-<h3>Currently working as RT software engineer</h3>
-
----
-
-<img align="right" height="120" src="pics\fight.png">
-
-<h3 align="right">Studied computer engineering @ Technion - Israel Institute of Technology</h3>
-
----
-
-<img align="left" height="120" src="pics\ross.png">
-
-<h3>Former graphic designer and animator</h3>
-
----
+![simelav24@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://www.linkedin.com/in/simon-labunsky/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)

@@ -15,7 +15,7 @@
 
 🎨 Former Graphic Designer and Animator
 
-📈 I love to craete art out of math, [my Monthly Graph](https://www.desmos.com/calculator/usntsrhkiz)
+📈 I love to craete art out of math, [occasionally changing graph](https://www.desmos.com/calculator/32n6xt5nh7)
 
 ### Some Tools
 

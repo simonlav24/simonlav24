@@ -33,6 +33,7 @@
 ### Featured Repositories
 
 * [Worms Game](https://github.com/simonlav24/wormsGame)
+* [Pool Game](https://github.com/simonlav24/PoolGame)
 * [DnD Virtual table top](https://github.com/shahafashash/dnd-vtt)
 * [Image Processing Art](https://github.com/simonlav24/ImageProcessingArt)
 * [Procedural dungeon generator and game](https://github.com/simonlav24/Dungeon-Game)

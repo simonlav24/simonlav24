@@ -36,7 +36,7 @@
 * [Pool Game](https://github.com/simonlav24/PoolGame)
 * [DnD Virtual table top](https://github.com/shahafashash/dnd-vtt)
 * [Image Processing Art](https://github.com/simonlav24/ImageProcessingArt)
-* [Mandelbrot Set Explorer][https://github.com/simonlav24/Mandelbrot-Set-Explorer]
+* [Mandelbrot Set Explorer](https://github.com/simonlav24/Mandelbrot-Set-Explorer)
 * [Procedural dungeon generator and game](https://github.com/simonlav24/Dungeon-Game)
 * [Image to Pokemon sprites](https://github.com/simonlav24/image-to-pokemon-sprites-collage)
 * [sDock](https://github.com/simonlav24/sDock)
